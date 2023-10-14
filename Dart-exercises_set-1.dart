@@ -67,3 +67,10 @@
 // You have a list of integers named numbersList containing various numbers. Write
 // Dart code to filter this list to only include numbers greater than 10 and store the
 // result in a new list. List<int> numbersList = [5, 12, 8, 15, 3, 18, 20, 9,1,55,-10,8,61,-23]
+
+// Questions: 14
+
+
+// Complete the square sum function so that it squares each number passed into it and then sums the results together.
+
+// For example, for [1, 2, 2] it should return 9 .
