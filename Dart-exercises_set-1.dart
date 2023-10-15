@@ -8,13 +8,16 @@
 
 // Question: 2
 
-// Print The pattern. A
-
+// Print The pattern.
+// A
 // BB
 // CCC
 // DDDD
 // EEEEE
 // Question: 3
+
+
+
 
 // write a code for Guessing Tempurature. * if the guessing is below show and message that Guessing is Lower than
 // temeprature
