@@ -8,13 +8,16 @@
 
 // Question: 2
 
-// Print The pattern. A
-
+// Print The pattern.
+// A
 // BB
 // CCC
 // DDDD
 // EEEEE
 // Question: 3
+
+
+
 
 // write a code for Guessing Tempurature. * if the guessing is below show and message that Guessing is Lower than
 // temeprature
@@ -67,3 +70,14 @@
 // You have a list of integers named numbersList containing various numbers. Write
 // Dart code to filter this list to only include numbers greater than 10 and store the
 // result in a new list. List<int> numbersList = [5, 12, 8, 15, 3, 18, 20, 9,1,55,-10,8,61,-23]
+
+// Questions: 14
+// Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. 
+
+// For example,
+// capitalize("abcdef") = ['AbCdEf', 'aBcDeF']. 
+//            (irfan) = ['IrFaN' , iRfAn]
+
+// Complete the square sum function so that it squares each number passed into it and then sums the results together.
+
+// For example, for [1, 2, 2] it should return 9 .
