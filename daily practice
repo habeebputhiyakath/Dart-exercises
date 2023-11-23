@@ -13,5 +13,12 @@ You are going to be given a word. Your job is to return the middle character of 
 question number 2 
 
 
+Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. 
+
+For example,
+capitalize("abcdef") = ['AbCdEf', 'aBcDeF']. 
+           (irfan) = ['IrFaN' , iRfAn]
+
+
 
 
