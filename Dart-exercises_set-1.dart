@@ -72,11 +72,11 @@
 // result in a new list. List<int> numbersList = [5, 12, 8, 15, 3, 18, 20, 9,1,55,-10,8,61,-23]
 
 // Questions: 14
-Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. 
+// Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. 
 
-For example,
-capitalize("abcdef") = ['AbCdEf', 'aBcDeF']. 
-           (irfan) = ['IrFaN' , iRfAn]
+// For example,
+// capitalize("abcdef") = ['AbCdEf', 'aBcDeF']. 
+//            (irfan) = ['IrFaN' , iRfAn]
 
 // Complete the square sum function so that it squares each number passed into it and then sums the results together.
 
