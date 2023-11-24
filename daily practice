@@ -20,5 +20,16 @@ capitalize("abcdef") = ['AbCdEf', 'aBcDeF'].
            (irfan) = ['IrFaN' , iRfAn]
 
 
+question number 3 
+
+Write a program to print the following star pattern 
+
+
+* * * * * * * * *
+  *           * 
+    *       * 
+      *   * 
+        *
+
 
 
