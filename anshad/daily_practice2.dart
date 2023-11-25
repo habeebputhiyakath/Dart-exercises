@@ -10,6 +10,8 @@
 
 import 'dart:io';
 
+
+
 void main(){
   stdout.write('enter a word');
   String word=stdin.readLineSync()!.toLowerCase().trim();
