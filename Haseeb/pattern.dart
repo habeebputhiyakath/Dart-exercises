@@ -6,16 +6,18 @@
 //       *   *
 //         *
 
-
 import 'dart:io';
 
 void main() {
-  for (int i =9 ; i >= 0; i--) {  
-    stdout.write('* ');
-    for (int j = 0; j < i; j++) {
-    stdout.write(' 2* ');
+  for (int i = 0; i < 5; i++) {
+    for (int j = 0; j < 9; j++) {
+      if (i == 0 || j == i||j==8-i) {
+        stdout.write('* ');
+      } else {
+        stdout.write('  ');
+      }
 
-    }   
-      stdout.writeln('');
+    }
+    stdout.writeln();
   }
 }
