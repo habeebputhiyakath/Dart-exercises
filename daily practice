@@ -76,7 +76,7 @@ Input: x = 10
 Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
-question number 7 
+question number 8 
 
 Check If Two String Arrays are Equivalent
 
