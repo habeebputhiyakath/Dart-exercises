@@ -100,6 +100,16 @@ Example 3:
 
 Input: word1  = ["abc", "d", "defg"], word2 = ["abcddefg"]
 Output: true
+
+question number 8 
+
+Write a program to print the following star pattern 
+
+*
+A B
+* * *
+C D E F 
+* * * * *
  
 
 
