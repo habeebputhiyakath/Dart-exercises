@@ -1,3 +1,22 @@
+
+// #Get the Middle Character
+
+// You are going to be given a word. Your job is to return the middle character of the word.
+// If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
+
+// #Examples:
+// ("habeeb")  return "be"
+// ("irfan")  return "f"
+// ("b") should return "b"
+// ("middle") should return "b"
+
+
+
+
+
+
+
+
 Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. 
 
 For example,
