@@ -1,4 +1,4 @@
-
+question number 1
 // #Get the Middle Character
 
 // You are going to be given a word. Your job is to return the middle character of the word.
@@ -14,7 +14,7 @@
 
 
 
-
+question number 2
 
 
 Given a string, capitalize the letters that occupy even indexes and odd indexes separately, and return as shown below. 
