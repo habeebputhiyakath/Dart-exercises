@@ -8,13 +8,7 @@
 
 // Question: 2
 
-// Print The pattern.
-// A
-// BB
-// CCC
-// DDDD
-// EEEEE
-// Question: 3
+
 
 
 
